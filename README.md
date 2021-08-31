@@ -7,13 +7,13 @@
   <a href="https://github.com/Braulio-Carvalho">   
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Braulio-Carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <div style="display: inline_block"><br> 
-  <img align="center" alt="Braulio-Java" height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Braulio-kotlin" height="120" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="70" width="120" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="70" width="120" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="110" width="120" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="130" width="150" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Braulio-kotlin" height="180" width="180" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="Braulio-Java" height="80" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Braulio-kotlin" height="110" width="110" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
 	
    </div>
   
