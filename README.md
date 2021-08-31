@@ -10,10 +10,10 @@
   <img align="center" alt="Braulio-Java" height="80" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"> 
 		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
-		<img align="center" alt="Braulio-kotlin" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Braulio-kotlin" height="110" width="110" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
+		<img align="center" alt="Braulio-kotlin" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="90" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
+		<img align="center" alt="Braulio-kotlin" height="90" width="110" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Braulio-kotlin" height="120" width="130" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
 	
    </div>
   
