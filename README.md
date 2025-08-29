@@ -26,7 +26,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### Experiência e Projetos
 
-**redspark (Desenvolvedor backend)**
+**Redspark (Desenvolvedor backend)**
 - Trabalhei no desenvolvimento do sistema PNLD DIGI para o Governo Federal, modernizando a distribuição de materiais didáticos. Fui responsável pelo desenvolvimento e manutenção do sistema utilizando Kotlin, Spring Framework, SQS e programação reativa com WebFlux.
 
 **NTT DATA Europe & Latam (Software Engineer)**
