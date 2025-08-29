@@ -4,7 +4,9 @@
 
 Sou um desenvolvedor backend com experiência em projetos de alta complexidade. Ao longo da minha trajetória, participei de iniciativas que vão desde a modernização de sistemas legados até o desenvolvimento de plataformas escaláveis e de alta performance.
 
+
 Tenho facilidade para trabalhar em equipes multidisciplinares e distribuídas, aplicando boas práticas de desenvolvimento e automação de deploys. Minha trajetória me preparou para ir além do código: meu objetivo é contribuir com o desenvolvimento de sistemas robustos e escaláveis em um ambiente onde eu possa aprender e compartilhar conhecimento
+
 ---
 
 ### Competências e Tecnologias
