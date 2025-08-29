@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-[cite_start]Sou um desenvolvedor backend com experiência em projetos de alta complexidade[cite: 18]. [cite_start]Ao longo da minha trajetória, participei de iniciativas que vão desde a modernização de sistemas legados até o desenvolvimento de plataformas escaláveis e de alta performance[cite: 19].
+Sou um desenvolvedor backend com experiência em projetos de alta complexidade. Ao longo da minha trajetória, participei de iniciativas que vão desde a modernização de sistemas legados até o desenvolvimento de plataformas escaláveis e de alta performance.
 
-[cite_start]Tenho facilidade para trabalhar em equipes multidisciplinares e distribuídas[cite: 20], aplicando boas práticas de desenvolvimento e automação de deploys. [cite_start]Estou em busca de novas oportunidades para aplicar minhas habilidades, aprender novas tecnologias e contribuir com soluções robustas e eficientes[cite: 21].
+Tenho facilidade para trabalhar em equipes multidisciplinares e distribuídas, aplicando boas práticas de desenvolvimento e automação de deploys. Estou em busca de novas oportunidades para aplicar minhas habilidades, aprender novas tecnologias e contribuir com soluções robustas e eficientes.
 
 ---
 
@@ -28,29 +28,29 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### Experiência e Projetos
 
 **redspark (Desenvolvedor backend)**
-- [cite_start]Trabalhei no desenvolvimento do sistema PNLD DIGI para o Governo Federal, modernizando a distribuição de materiais didáticos[cite: 25]. [cite_start]Fui responsável pelo desenvolvimento e manutenção do sistema utilizando Kotlin, Spring Framework, SQS e programação reativa com WebFlux[cite: 27].
+- Trabalhei no desenvolvimento do sistema PNLD DIGI para o Governo Federal, modernizando a distribuição de materiais didáticos. Fui responsável pelo desenvolvimento e manutenção do sistema utilizando Kotlin, Spring Framework, SQS e programação reativa com WebFlux.
 
 **NTT DATA Europe & Latam (Software Engineer)**
-- [cite_start]Atuei no desenvolvimento de novas features para um cliente multinacional, a Ambev, em um sistema de delivery B2B para diversos países[cite: 35]. [cite_start]Minhas responsabilidades incluíram o desenvolvimento de funcionalidades com Kotlin e Spring Framework, além de implementação e manutenção de banco de dados com Amazon RDS[cite: 37, 38].
+- Atuei no desenvolvimento de novas features para um cliente multinacional, a Ambev, em um sistema de delivery B2B para diversos países. Minhas responsabilidades incluíram o desenvolvimento de funcionalidades com Kotlin e Spring Framework, além de implementação e manutenção de banco de dados com Amazon RDS.
 
 **Radix Engenharia e Software (Desenvolvedor Java Pleno)**
-- [cite_start]Colaborei com um cliente do setor farmacêutico [cite: 47][cite_start], atuando na migração de sistemas legados para soluções modernas e eficientes, usando Java Spring, RabbitMQ, Kafka e MongoDB[cite: 48, 50].
+- Colaborei com um cliente do setor farmacêutico, atuando na migração de sistemas legados para soluções modernas e eficientes, usando Java Spring, RabbitMQ, Kafka e MongoDB.
 
 **C6 Bank (Software Developer)**
-- [cite_start]Atuei no time de Cobrança PJ, responsável por um sistema robusto de processamento de boletos[cite: 65]. [cite_start]Contribui com o desenvolvimento de APIs REST, utilizando Kotlin, Spring Framework, PostgreSQL e MongoDB [cite: 66][cite_start], e implementei testes unitários com JUnit e MockK, garantindo a qualidade do software[cite: 66].
+- Atuei no time de Cobrança PJ, responsável por um sistema robusto de processamento de boletos. Contribui com o desenvolvimento de APIs REST, utilizando Kotlin, Spring Framework, PostgreSQL e MongoDB, e implementei testes unitários com JUnit e MockK, garantindo a qualidade do software.
 
 **Zup Innovation (Software Developer)**
-- [cite_start]Participei da construção de um sistema de cofre centralizado [cite: 73] [cite_start]e compartilhei meu conhecimento em um artigo publicado no Medium[cite: 74]. [cite_start]Minhas responsabilidades também envolveram a configuração e administração de uma instância do AWS EC2 [cite: 75][cite_start], utilizando Java, Spring Boot, Spring Data JPA, Spring Web e Spring Cloud[cite: 76].
+- Participei da construção de um sistema de cofre centralizado e compartilhei meu conhecimento em um artigo publicado no Medium. Minhas responsabilidades também envolveram a configuração e administração de uma instância do AWS EC2, utilizando Java, Spring Boot, Spring Data JPA, Spring Web e Spring Cloud.
 
 **Zup Innovation (Software Developer Intern)**
-- [cite_start]Participei ativamente na criação e ajustes de pequenas funcionalidades [cite: 81] [cite_start]utilizando Java, Kotlin, Spring Data JPA, Spring Web e PostgreSQL[cite: 84]. [cite_start]Implementei testes unitários usando JUnit e Mockito[cite: 85].
+- Participei ativamente na criação e ajustes de pequenas funcionalidades utilizando Java, Kotlin, Spring Data JPA, Spring Web e PostgreSQL. Implementei testes unitários usando JUnit e Mockito.
 
 ---
 
 ### Formação Acadêmica
 
 **UNINOVE**
-- [cite_start]Análise e Desenvolvimento de Sistemas (Janeiro de 2019 - Maio de 2024) [cite: 90]
+- Análise e Desenvolvimento de Sistemas (Janeiro de 2019 - Maio de 2024)
 
 ---
 
@@ -59,5 +59,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 <a href = "mailto:braulio.carvalho@outlook.co"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:braulio.github@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/braulio-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@Braulio_Carvalho" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/Braulio-Carvalho/Braulio-Carvalho/blob/output/github-contribution-grid-snake.svg)
+<a href="https://medium.com/@Braulio_Carvalho" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>![Snake animation](https://github.com/Braulio-Carvalho/Braulio-Carvalho/blob/output/github-contribution-grid-snake.svg)
