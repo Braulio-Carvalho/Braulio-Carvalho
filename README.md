@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Bráulio Carvalho**
 
-💻 Desenvolvedor Backend • Arquitetura Limpa • Sistemas Escaláveis • Mensageria e Alta Performance
+💻 Desenvolvedor Backend • Arquitetura Limpa • Arquitetura Hexagonal • Sistemas Escaláveis • Mensageria e Alta Performance
 
 ---
 
