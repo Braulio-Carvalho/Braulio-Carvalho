@@ -94,6 +94,10 @@ Tenho facilidade para trabalhar em equipes multidisciplinares e distribuídas, a
 
 ## 🧩 Projetos em destaque
 
+**[HexArch](https://github.com/Braulio-Carvalho/hexagonal-architecture)** — Arquitetura Hexagonal com Spring Boot, Kafka, Docker, WireMock e MongoDB  
+Projeto exemplo aplicando Hexagonal Architecture (Ports & Adapters) com foco em desacoplamento e testabilidade.  
+Gerencia clientes com persistência em MongoDB, comunicação assíncrona via Kafka e integração simulada com serviço externo de CEP usando WireMock.
+
 **[CleanArch](https://github.com/Braulio-Carvalho/cleanarch)** — Arquitetura Limpa com Spring Boot, Kafka, Docker e WireMock  
 Projeto exemplo aplicando Clean Architecture para gerenciamento de clientes, integração com serviços externos, mensageria via Kafka e simulação de CEP com WireMock.
 
